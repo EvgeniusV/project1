@@ -7,7 +7,7 @@ A project template with only the bare minimum of structure. A good starting poin
 
 ## Start
 
-> make
+    make
 
 ## Setup
 

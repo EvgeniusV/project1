@@ -11,21 +11,30 @@ A project template with only the bare minimum of structure. A good starting poin
 
 ## Setup
 
-> make build
+    make build
 
 ## Run
 
-> make run
+    make run
 
 ## Run tests
 
-> make test
+    make test
 
 ## Run checkstyle
 
-> make lint
+    make lint
 
 ## Check update denedecies and plugins
 
-> make update
+    make update
 
+## asdf
+
+On *nix and macOS to manage Java versions we recommend using asdf https://github.com/asdf-vm/asdf.
+
+!(https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)
+
+This repository is created and maintained by the team and the community of Hexlet, an educational project. Read more about Hexlet.
+
+See most active contributors on hexlet-friends.

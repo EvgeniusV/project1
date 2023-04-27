@@ -33,7 +33,7 @@ A project template with only the bare minimum of structure. A good starting poin
 
 On *nix and macOS to manage Java versions we recommend using asdf https://github.com/asdf-vm/asdf.
 
-https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png
+/home/Evgenius/Documents/hexlet_logo128.png
 
 This repository is created and maintained by the team and the community of Hexlet, an educational project. Read more about Hexlet.
 

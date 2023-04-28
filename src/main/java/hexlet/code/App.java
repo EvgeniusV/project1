@@ -5,7 +5,7 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println("Please enter the game number and press Enter \n");
-        System.out.println("1 - Greet\n2 - Even\n3 - Calc\n4 - GCD\n5 - Progression");
+        System.out.println("1 - Greet\n2 - Even\n3 - Calc\n4 - GCD\n5 - Progression\n6 - Prime\n0 - Exit");
         int userChoiceValue = userChoice();
         System.out.println("Your choice: " + userChoiceValue);
         switch (userChoiceValue){
@@ -24,6 +24,8 @@ public class App {
                 break;
             case 5:
                 Progression.progress();
+            case 6:
+                Prime.primeNums();
             case 0:
                 break;
 

@@ -31,9 +31,12 @@ A project template with only the bare minimum of structure. A good starting poin
 
 ## asdf
 
-On *nix and macOS to manage Java versions we recommend using asdf https://github.com/asdf-vm/asdf.
+## Ascinema
 
-![](/home/Evgenius/Documents/hexlet_logo128.png)
+    https://asciinema.org/a/lDOLurH1y5err8Y1jJ7HW4rdg
+ 
+
+On *nix and macOS to manage Java versions we recommend using asdf https://github.com/asdf-vm/asdf.
 
 This repository is created and maintained by the team and the community of Hexlet, an educational project. Read more about Hexlet.
 
